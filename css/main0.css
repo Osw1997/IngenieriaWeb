@@ -1,0 +1,52 @@
+a {
+    color: white !important;
+}
+
+h3 {
+    color: whitesmoke;
+}
+
+#bionics{
+    background: rgba(60,169,79,0.87);
+}
+
+#energy{
+    background: orange;
+}
+
+#mechatronics{
+    background: rgba(120,88,169,0.87);
+}
+
+#telematics{
+    background: rgba(19,146,169,0.87);
+}
+
+.careerContainer{
+    border-radius: 10px;
+    box-shadow: gray 2px 5px 10px;
+    height: 100%;
+    transition: 0.3s;
+}
+
+.careerContainer:hover{
+    transform: translate(10px,-10px);
+}
+
+.nav, .navbar{
+    background: rgba(169,0,35,0.87);
+    color: whitesmoke;
+}
+
+
+.active > a{
+    background: rgba(227,164,188,0.87) !important;
+}
+
+.margin{
+    margin: 25px 0 0 0 ;
+}
+
+.contenedor{
+    margin-top: 50px;
+}
